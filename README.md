@@ -18,7 +18,7 @@ Hi there 👋 I'm Dylan Masschelein
  -> Node / Express  
  -> MySQL / MongoDB
   
- 📇 Contact me!
- -> Linkedin: linkedin.com/in/dylanmasschelein/
- -> Email: dylanmasschelein@gmail.com
+ 📇 Contact me!  
+ -> Linkedin: linkedin.com/in/dylanmasschelein/  
+ -> Email: dylanmasschelein@gmail.com  
 
