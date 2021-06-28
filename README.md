@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there 👋 I'm Dylan Masschelein  
+❤️‍ Full Stack Web Developer ❤️‍
 
-<!--
-**dylanmasschelein/dylanmasschelein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning React Native, Typescript, and Context  
+🏗️ Building a connect 4 game in React Native!  
+👯 Happy to collaborate on anything and everything!! Reach out anytime!  
+⚡ Fun fact: I lived abroad for 3+ years - Favorite traveled country: Vietnam!  
+📜 I've also been a Farmer, Account Manager, Mechanical Technician and a Construction Project Manager!  
 
-Here are some ideas to get you started:
+❤️‍🔥 Passions ❤️‍🔥  
+-> Hiking, Camping, Slacklining  
+-> Scuba Diving  
+-> Oceanography  
+        
+ 💻 Fluent technologies  
+ -> JavaScript  
+ -> React / Sass / HTML5 / CSS3  
+ -> Node / Express  
+ -> MySQL / MongoDB
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
