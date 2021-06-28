@@ -1,7 +1,7 @@
 Hi there 👋 I'm Dylan Masschelein  
 ❤️‍ Full Stack Web Developer ❤️‍
 
-🌱 Currently learning React Native, Typescript, and Context, Redux  
+🌱 Currently learning React Native, Typescript, and Context, Redux, Testing enviornments 
 🏗️ Building a connect 4 game in React Native!  
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
 ⚡ Fun fact: I lived abroad for 3+ years - Favorite traveled country: Vietnam!  
