@@ -1,8 +1,10 @@
 Hi there 👋 I'm Dylan Masschelein  
 ❤️‍ Full Stack Web Developer ❤️‍
 
-🌱 Currently learning React Native, Typescript, and Context, Redux, Testing enviornments  
-🏗️ Building a connect 4 game in React Native!  
+🌱 Currently learning React Native, Typescript, Redux
+📖 Interested in Docker, firebase, Ruby on Rails, Python
+🏗️ Building my first Shopify theme using Liquid
+✈️ Up next, Travel Visa app using React Native. (Waiting patiently on an API key!)
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
 ⚡ Fun fact: I lived abroad for 3+ years - Favorite traveled country: Vietnam!  
 📜 I've also been a Farmer, Account Manager, Mechanical Technician and a Construction Project Manager!  
@@ -12,7 +14,7 @@ Hi there 👋 I'm Dylan Masschelein
 -> Scuba Diving  
 -> Oceanography  
         
- 💻 Fluent technologies  
+ 💻 Fluently speak:
  -> JavaScript  
  -> React / Sass / HTML5 / CSS3  
  -> Node / Express  
