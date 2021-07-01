@@ -9,7 +9,7 @@ Hi there 👋 I'm Dylan Masschelein
 ⚡ Fun fact: I lived abroad for 3+ years - Favorite traveled country: Vietnam!  
 📜 I've also been a Farmer, Account Manager, Mechanical Technician and a Construction Project Manager!  
 
-❤️‍🔥 Passions ❤️‍🔥  
+🔥 Passions 🔥  
 -> Hiking, Camping, Slacklining  
 -> Scuba Diving  
 -> Oceanography  
