@@ -14,7 +14,7 @@ Hi there 👋 I'm Dylan Masschelein
 -> Scuba Diving  
 -> Oceanography  
         
- 💻 Fluently speak:
+ 💻 Fluently speak:  
  -> JavaScript  
  -> React / Sass / HTML5 / CSS3  
  -> Node / Express  
