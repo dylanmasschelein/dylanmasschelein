@@ -2,8 +2,8 @@ Hi there 👋 I'm Dylan Masschelein
 ❤️‍ Full Stack Web Developer ❤️‍
 
 🌱 Actively learning React Native, Typescript, Redux  
-📖 Interested in Docker, firebase, Ruby on Rails, Python  
-🏗️ Currently completeing tutorial on Redux and implementing into my existing Conservation Nation project!  
+📖 Interested in Ruby on Rails, Python, Docker, React ContextAPI, and internatiionalization  
+🏗️ Currently completeing tutorial on TypeScript, where I will implement into a new travel related project  
 ✈️ Up next, Travel Visa app using React Native. (Waiting patiently on an API key!)  
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
 ⚡ Fun fact: I lived abroad for 3+ years - Favorite traveled country: Vietnam!  
