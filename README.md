@@ -1,4 +1,4 @@
-Hi there 👋 I'm Dylan 
+Hi there 👋 I'm Dylan  
 ❤️‍ Full Stack Web Developer ❤️‍
 
 🌱 Actively learning Ruby on Rails, Unit Testing,
