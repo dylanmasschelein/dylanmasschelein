@@ -15,15 +15,15 @@ Hi there 👋 I'm Dylan
 -> Scuba Diving  
 -> Oceanography & Sustainability
         
- 💻 Fluently speak:  
- -> JavaScript && TypeScript 
- -> React && React Native
- -> Sass && CSS3  
- -> Node && Express && Next
- -> Three.js && Blender
- -> MySQL && MongoDB && S3
- -> Google Tag Manager && Google Analytics (UA && 4)
- -> API Integrations (i.e. Hubspot, Stripe, Sendgrid/Twilio etc...)
+ 💻 Fluently speak:    
+ -> JavaScript && TypeScript   
+ -> React && React Native  
+ -> Sass && CSS3    
+ -> Node && Express && Next  
+ -> Three.js && Blender  
+ -> MySQL && MongoDB && S3  
+ -> Google Tag Manager && Google Analytics (UA && 4)  
+ -> API Integrations (i.e. Hubspot, Stripe, Sendgrid/Twilio etc...)  
   
  📇 Contact me!  
  -> Linkedin: linkedin.com/in/dylanmasschelein/  
