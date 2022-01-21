@@ -1,10 +1,10 @@
 Hi there 👋 I'm Dylan  
 ❤️‍ Full Stack Web Developer ❤️‍
 
-🌱 Actively learning Ruby on Rails, Unit Testing,
-📖 Interested in Angular, Java, Deno
-🏗️ Currently building a music guessing app - thanks to my parents for the inspiration! - React Native, TypeScript, Spotify
-✈️ Personal business website
+🌱 Actively learning Ruby on Rails, Unit Testing  
+📖 Interested in Angular, Java, Deno  
+🏗️ Currently building a music guessing app - thanks to my parents for the inspiration! - React Native, TypeScript, Spotify  
+✈️ Personal business website  
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
 ⚡ Fun fact: I lived abroad for 3+ years - Favorite traveled country: Vietnam!  
 📜 I've also been a Farmer, Account Manager, Mechanical Technician and a Construction Foreman!  
