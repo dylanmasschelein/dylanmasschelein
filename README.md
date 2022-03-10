@@ -1,19 +1,18 @@
 Hi there 👋 I'm Dylan  
 ❤️‍ Full Stack Web Developer ❤️‍
 
-🌱 Actively learning Ruby on Rails, Unit Testing  
-📖 Interested in Angular, Java, Deno  
+🌱 Actively learning Ruby on Rails, Unit Testing, Jest, Enzyme  
+📖 Interested in Angular, Rust, Deno  
 🏗️ Currently building a music guessing app - thanks to my parents for the inspiration! - React Native, TypeScript, Spotify  
-✈️ Personal business website  
+✈️ Currently in Portugal, Where should I head next!?  
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
-⚡ Fun fact: I lived abroad for 3+ years - Favorite traveled country: Vietnam!  
 📜 I've also been a Farmer, Account Manager, Mechanical Technician and a Construction Foreman!  
 
 🔥 Passions 🔥  
--> Travel
+-> Travel  
 -> Hiking, Camping, Slacklining, Fishing    
--> Scuba Diving  
--> Oceanography & Sustainability
+-> Scuba Diving   
+-> Oceanography & Sustainability  
         
  💻 Fluently speak:    
  -> JavaScript && TypeScript   
