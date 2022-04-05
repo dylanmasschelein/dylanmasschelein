@@ -1,10 +1,12 @@
 Hi there 👋 I'm Dylan  
 ❤️‍ Full Stack Web Developer ❤️‍
 
-🌱 Actively learning Ruby on Rails, Unit Testing, Jest, Enzyme  
-📖 Interested in Angular, Rust, Deno  
+🌱 Actively learning Unit Testing (Jest, Cypress) and Go  
+📖 Interested in Angular, Rust, Deno, Python, Java  
 🏗️ Currently building a music guessing app - thanks to my parents for the inspiration! - React Native, TypeScript, Spotify  
-✈️ Currently in Portugal, Where should I head next!?  
+📕 Reading "The Heartbeat of Tree" by "Peter Wohlleben"  
+🌮 Learning Spanish  
+✈️ Temporarily living in Portugal  
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
 📜 I've also been a Farmer, Account Manager, Mechanical Technician and a Construction Foreman!  
 
