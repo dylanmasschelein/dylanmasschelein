@@ -17,7 +17,7 @@ Hi there 👋 I'm Dylan
 -> Oceanography & Sustainability  
         
  💻 Fluently speak:    
- -> JavaScript && TypeScript   
+ -> JavaScript/TypeScript && Go  
  -> React && React Native  
  -> Sass && CSS3    
  -> Node && Express && Next  
