@@ -1,4 +1,4 @@
-Hi there 👋 I'm Dylan  
+👋 Hi there 👋 I'm Dylan  
 ❤️‍ Full Stack Web Developer ❤️‍
 
 🌱 Actively learning GoLang (GO) and Unit Testing (Jest, Cypress)  
