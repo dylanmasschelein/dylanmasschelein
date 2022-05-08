@@ -17,7 +17,7 @@
 -> Oceanography & Sustainability  
         
  💻 Fluently speak:    
- -> JavaScript/TypeScript && Go  
+ -> JavaScript/TypeScript    
  -> React && React Native  
  -> Sass && CSS3    
  -> Node && Express && Next  
