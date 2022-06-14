@@ -4,9 +4,8 @@
 🌱 Actively learning Python and Testing (Jest, Cypress)  
 📖 Interested in learning Ruby on Rails, Python, Angular, Rust, Deno, Java  
 🏗️ Currently building a music guessing app - thanks to my parents for the inspiration! - React Native, TypeScript, Spotify  
-📕 Reading "Why Has Nobody Told Me This Before?" by "Dr. Julie Smith"    
+📕 Reading "The Elephant Brain" by "Robin Hanson"     
 🌮 Learning Spanish  
-✈️ Temporarily living in Portugal  
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
 📜 I've also been a Farmer, Account Manager, Mechanical Technician and a Construction Foreman!  
 
@@ -18,7 +17,7 @@
         
  💻 Fluently speak:    
  -> JavaScript/TypeScript    
- -> React && React Native  
+ -> React && React Native && Next
  -> Sass && CSS3    
  -> Node && Express && Next  
  -> Three.js && Blender  
