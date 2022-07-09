@@ -22,6 +22,7 @@
  -> Node && Express && Next  
  -> Three.js && Blender  
  -> MySQL && MongoDB && S3  
+ -> Cypress && Jest && React Testing library  
  -> Google Tag Manager && Google Analytics (UA && 4)  
  -> API Integrations (i.e. Hubspot, Stripe, Sendgrid/Twilio etc...)  
   
