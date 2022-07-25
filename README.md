@@ -1,9 +1,9 @@
 👋 Hi there 👋 I'm Dylan  
 ❤️‍ Full Stack Web Developer ❤️‍
 
-🌱 Actively learning Python and Testing (Jest, Cypress)  
-📖 Interested in learning Ruby on Rails, Python, Angular, Rust, Deno, Java  
-🏗️ Currently building a music guessing app - thanks to my parents for the inspiration! - React Native, TypeScript, Spotify  
+🌱 Actively learning Python and Testing (Jest, Cypress, React Testing Library)  
+📖 Interested in learning Ruby on Rails, Angular, NestJS, React Native  
+🏗️ Currently building a passion project using Python/Django, React, MySQL -> Message if you want to know more!  
 📕 Reading "The Elephant Brain" by "Robin Hanson"     
 🌮 Learning Spanish  
 👯 Happy to collaborate on anything and everything!! Reach out anytime!  
@@ -17,12 +17,11 @@
         
  💻 Fluently speak:    
  -> JavaScript/TypeScript    
- -> React && React Native && Next
+ -> React  
  -> Sass && CSS3    
- -> Node && Express && Next  
+ -> Node && ExpressJS && NextJS  
  -> Three.js && Blender  
  -> MySQL && MongoDB && S3  
- -> Cypress && Jest && React Testing library  
  -> Google Tag Manager && Google Analytics (UA && 4)  
  -> API Integrations (i.e. Hubspot, Stripe, Sendgrid/Twilio etc...)  
   
