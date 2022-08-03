@@ -1,8 +1,8 @@
 👋 Hi there 👋 I'm Dylan  
-❤️‍ Full Stack Web Developer ❤️‍
+❤️‍ Full Stack Software Developer ❤️‍  
 
 🌱 Actively learning Python and Testing (Jest, Cypress, React Testing Library)  
-📖 Interested in learning Ruby on Rails, Angular, NestJS, React Native  
+📖 Interested in learning Ruby on Rails, GraphQL, NestJS, React Native  
 🏗️ Currently building a passion project using Python/Django, React, MySQL -> Message if you want to know more!  
 📕 Reading "The Elephant Brain" by "Robin Hanson"     
 🌮 Learning Spanish  
